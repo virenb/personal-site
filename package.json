@@ -1,16 +1,12 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
-  "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "name": "virenb-portfolio-site",
+  "description": "Portfolio website built with GatsbyJS",
+  "version": "1.0.1",
+  "author": "virenb@gmail.com",
   "dependencies": {
     "gatsby": "^1.9.153",
-    "gatsby-link": "^1.6.34",
     "gatsby-plugin-react-helmet": "^2.0.3",
-    "gatsby-plugin-typography": "^1.7.10",
-    "react-helmet": "^5.2.0",
-    "typography-theme-bootstrap": "^0.16.7",
-    "typography-theme-lawton": "^0.15.10"
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"
