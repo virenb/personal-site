@@ -32,10 +32,10 @@ const Header = () => (
         </Link>
         <ul style={{ listStyle: 'none', float: 'right', fontFamily: 'BlinkMacSystemFont', fontSize: '1rem', lineHeight: '2.5rem' }}>
           <li style={{ display: 'inline-block', marginRight: '1rem' }}>
-            <Link style={{ color: '2E4053', textDecoration: 'none' }}  to="/page-2">Page 2</Link>
+            <Link style={{ color: '#2E4053', textDecoration: 'none' }}  to="/">about</Link>
           </li>
           <li style={{ display: 'inline-block', marginRight: '1rem' }}>
-            <Link style={{ color: '2E4053', textDecoration: 'none' }}  to="/page-2">Page 2</Link>
+            <Link style={{ color: '#2E4053', textDecoration: 'none' }}  to="/work">work</Link>
           </li>          
         </ul>
       </h1>
